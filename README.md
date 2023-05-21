@@ -1,4 +1,4 @@
-### 우당탕탕 코린이 탈출기💻🏃‍♀️
+### Welcome my world👋!
 
 <!--
 **chxni/chxni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
