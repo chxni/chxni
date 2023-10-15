@@ -1,5 +1,12 @@
 ### Welcome CHXNI World✨!
 
+### studying
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=spring&logoColor=white)
+![kotlin}(https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 <!--
 **chxni/chxni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
