@@ -1,4 +1,10 @@
-### Hello I'm CHXNI✨!
+# ✨Chanhee✨
+
+- `삼육대학교 컴퓨터공학부` [2020.03 - 2024.08]
+- `벤처 스타트업 아카데미 백엔드 과정` [2023.03 - 2023.12]
+- `AWS 동덕여대 X 삼육대 공동 아이디어톤 1등` [2023.08.03 - 2023.08.04]
+- `교내 SW 프로젝트 경진대회 최우수상` [2023.08.24]
+- `중소벤처기업부 장관상` [2023.10.30]
 
 ## 🌱Skills
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
